@@ -26,6 +26,7 @@
 
 body {
   background-image: url('images/car-blurred.png');
+  background-size: cover;
   display: grid;
   justify-items: center;
   align-items: center;
